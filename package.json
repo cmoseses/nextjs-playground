@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start -p 8000",
+    "release": "now"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^4.2.0",
+    "now": "^11.2.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-markdown": "^3.3.2"
+  }
+}

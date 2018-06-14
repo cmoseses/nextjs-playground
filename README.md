@@ -1,0 +1,12 @@
+- `yarn dev`
+- `yarn build`
+- `yarn start`
+- `now`
+
+- share component
+- router
+- router mask
+- get data
+- style / global style
+- markdown
+- release to now https://hello-next-apylkazoie.now.sh/
