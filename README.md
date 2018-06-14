@@ -9,4 +9,4 @@
 - get data
 - style / global style
 - markdown
-- release to now https://hello-next-apylkazoie.now.sh/
+- release to now https://nextjs-playground-zxjcqqczmv.now.sh
